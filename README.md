@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meladyar.netlify.app/](https://meladyar.netlify.app/)
 
-- 📫 How to reach me **denis.alpha4@gmail.com**
+- 📫 How to reach me **mayaarmelad@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
 
