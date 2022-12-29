@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meladyar.netlify.app/](https://meladyar.netlify.app/)
 
-- 📫 Reach me out by emailing me **mayaarmelad@gmail.com**
+- 📫 Reach me out by emailing **mayaarmelad@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
 
