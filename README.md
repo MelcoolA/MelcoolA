@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://meladyar.netlify.app/](https://meladyar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mayaarmelad.netlify.app/](https://meladyar.netlify.app/)
 
 - 📫 Reach me out by emailing **mayaarmelad@gmail.com**
 
