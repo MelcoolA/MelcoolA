@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, My name is Ahmad Melad Mayaar</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A passionate programmer and Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **Machine Learning and Machine Architecture**
 
-- 👨‍💻 All of my projects are available at [https://mayaarmelad.netlify.app/](https://meladyar.netlify.app/)
-
+- 👨‍💻 All of my projects are available here
 - 📫 Reach me out by emailing **mayaarmelad@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner**
