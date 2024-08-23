@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad (Melad) Mayaar</h1>
 <h3 align="center">A passionate Data Analyst and Software Engineer from Berkeley, CA. </h3>
-<h3 align="center">Please note that some of my projects that are listed on my resume are private (since they are associated with UC Berkeley), if you wish to take a look at them, send me an email and I will be happy to share them with you. </h3>
+<h3 align="center" style="color: #FF4500; font-weight: bold;">
+  Please note that some of my projects listed on my resume are private 
+  (since they are associated with UC Berkeley). If you wish to take a look at them, 
+  send me an email and I will be happy to share them with you.
+</h3>
+
 
 - 🔭 I’m currently working on **building Deep Audio Classifier with TensorFlow, as well as building Algorithmic Trading using Machine Learning & Quant Strategies with Python**
 
