@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://melmaya.com/](https://melmaya.com/)
 
-- ⚡ Fun fact **I am a fast learner**
+- ⚡ Fun fact **I am a fast learner 📖📖👨‍🎓👨‍🎓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
