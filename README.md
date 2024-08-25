@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad (Melad) Mayaar</h1>
 <h2 align="center">A passionate Data Analyst and Software Engineer from Berkeley, CA. </h2>
-<h3 style="text-align: center; color: orange; font-weight: bold;">
+<h3 style="text-align: center; color: #FFA500; font-weight: bold;">
   Please note that some of my projects listed on my resume are private 
   (since they are associated with UC Berkeley). If you wish to take a look at them, 
   send me an email and I will be happy to share them with you.
 </h3>
+
 
 
 
