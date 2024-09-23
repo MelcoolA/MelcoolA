@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **building Deep Audio Classifier with TensorFlow, as well as building Algorithmic Trading using Machine Learning & Quant Strategies with Python**
 
-- 🌱 I’m currently learning Options Trading and Algorithmic Trading **Akuna Capital**
+- 🌱 I’m currently learning Options Trading and Algorithmic Trading at
 
 - 📝 I regularly write on my website about my life and interesting projects that I have been working on [https://melmaya.com/](https://melmaya.com/)
 
