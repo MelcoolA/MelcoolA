@@ -6,11 +6,7 @@
 
 ---
 
-UC Berkeley grad (Data Science + CS, 2024). M.S. Electrical & Computer Engineering @ SDSU.
-1+ years in industry doing embedded systems engineering.
-
-I build things close to the metal — parallel compute, real-time systems, GPU architecture, AI hardware.
-
+UC Berkeley grad (Data Science + CS, 2024)
 ---
 
 **Languages:** C · C++ · Python · Verilog · RISC-V · CUDA
